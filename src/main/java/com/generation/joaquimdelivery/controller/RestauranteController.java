@@ -1,4 +1,4 @@
-package com.generation.joaquimdelivery.controlller;
+package com.generation.joaquimdelivery.controller;
 
 import java.util.List;
 import java.util.Optional;
